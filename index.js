@@ -9,4 +9,4 @@ async function processData(url) {
     console.log("Error fetching data", error);
   }
 }
-processData("https://fakestoreapi.com/products");
+processData(url);
