@@ -1,0 +1,17 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "A package to fetch data and to do GET, POST, PUT and UPDATE task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "GET",
+    "POST",
+    "DELETE",
+    "UPDATE"
+  ],
+  "author": "nikhilpakhloo",
+  "license": "Apache-2.0"
+}
